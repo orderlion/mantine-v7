@@ -1,0 +1,1 @@
+{"version":3,"file":"HoverCard.styles-api.js","sources":["../../src/data/HoverCard.styles-api.ts"],"sourcesContent":["import { PopoverStylesApi } from './Popover.styles-api';\n\nexport const HoverCardStylesApi = PopoverStylesApi;\n"],"names":["PopoverStylesApi"],"mappings":";;;;;;AACY,MAAC,kBAAkB,GAAGA;;;;"}
